@@ -1,3 +1,4 @@
+#This uses rectangle detection to identify ID cards
 import cv2
 import numpy as np
 
